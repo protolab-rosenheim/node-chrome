@@ -1,4 +1,4 @@
-FROM node:10.7.0-alpine
+FROM node:10.15.2-alpine
 
 ENV CHROME_BIN usr/bin/chromium-browser
 
